@@ -5,6 +5,6 @@
  To generate random users
     https://randomuser.me/api =>API used
 
-Live link
+Live link:
 https://web-development-rm0s.onrender.com/
 
