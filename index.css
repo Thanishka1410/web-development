@@ -1,9 +1,9 @@
-h1{
+/* h1{
     color:blue;
 } 
 .h1-tag{
     color:red;
-}
+} */
 .nav-bar{
     border-color: black;
     border-width: 2px;
@@ -38,7 +38,7 @@ body{
     border-radius: 30px;
     overflow: hidden;
     padding-bottom: 20px;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(96, 83, 83, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 .card img{
     width: 100%;
