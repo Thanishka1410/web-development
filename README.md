@@ -1,8 +1,4 @@
 # web-development
-Being Zero 
-Practice on HTML,CSS,Javascript
-Day 5,6
-
-
-
-09-10-2026
+# Creating a card with functionality
+# A nav bar with required CSS 
+# toggle user changes user from John to Jane 
